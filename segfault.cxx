@@ -1,5 +1,5 @@
 #define GL_GLEXT_PROTOTYPES
-#include <GL/gl3w.h>
+#include <gl3w/GL/gl3w.h>
 #include <GLFW/glfw3.h>
 #include <cstdio>
 #include <cstdlib>
